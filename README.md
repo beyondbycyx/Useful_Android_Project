@@ -11,5 +11,15 @@
 ### checkbox篇
 <a href = "https://github.com/lguipeng/AnimCheckBox">AnimCheckBox:动画的checkbox </a> </br>
 
+
+### 自定义view篇
+<a href ="https://github.com/pengjianbo/FloatViewFinal">floatView ,悬浮的自定义view </a>
+- 由于是可以了离开自己的应用界面而存在，所以开启了一个服务
+- 每个视图都是通过windowmanager来显示的，而windowmanager有3种，而常用的有toast，phone类的窗口，因此可以利用Windowsmanger,来创建一个窗口。
+- window.layoutparams可以控制view的位置大小，显示的flag。
+- 自定义了一个组合view,framelayout,可以添加多个view.
+- 利用绑定服务的方式，以返回IBinder 的形式让自己的应用可以远程控制该悬浮窗的。
+
+
 ### 项目篇
 -  多媒体：<a href = "https://github.com/naman14/Timber">Material Design Music Player</a></br>
