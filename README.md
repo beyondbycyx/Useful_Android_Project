@@ -22,7 +22,7 @@
 
 
 ### 第三方组件篇
-<a href="https://github.com/wasabeef/fresco-processors">Fresco 图片的形状，颜色，滤镜等转换的转换类<>
+<a href="https://github.com/wasabeef/fresco-processors">Fresco 图片的形状，颜色，滤镜等转换的转换类</a>
 
 
 
