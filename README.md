@@ -21,5 +21,11 @@
 - 利用绑定服务的方式，以返回IBinder 的形式让自己的应用可以远程控制该悬浮窗的。
 
 
+### 第三方组件篇
+<a href="https://github.com/wasabeef/fresco-processors">Fresco 图片的形状，颜色，滤镜等转换的转换类<>
+
+
+
+
 ### 项目篇
 -  多媒体：<a href = "https://github.com/naman14/Timber">Material Design Music Player</a></br>
